@@ -6,5 +6,8 @@
             "Adduser\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "php": "^7.4", 
+        "asadjavedlearning/adduser": "^1.0"
+    }
 }
